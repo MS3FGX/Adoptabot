@@ -4,4 +4,4 @@ These are individual STL files for each of the printed parts of the v1 [Adoptabo
 
 # Status
 
-Bearing holders are showing as not watertight, looking into it.
+Currently in testing. Bearing holders showing manifold issues when exported, fixed in Netfabb.
