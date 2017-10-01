@@ -7,6 +7,27 @@ Files in the "experimental" directory are my modifications of the original files
 # Print Settings
 All parts except case printed at 50% infill with .2mm layers, case printed with .3mm layers.
 
+# Required Hardware (Incomplete)
+
+**M3 Screws:**
+* 6mm   (x2)
+* 8mm   (x3)
+* 12mm  (x2)
+* 16mm  (x8)
+* 20mm  (x3)
+* 22mm  (x3)
+* 25mm  (x3)
+
+**Miscellaneous:**
+* M3 Hex Nut (x4)
+* M3 Wing Nut (x2)
+* M3 20mm Flat Head Screw (x2)
+* M4 16mm Button Head Screw (x2)
+
+**Rods/Bearings:**
+* 8mm Smooth Rod @ 165mm (x6)
+* 8mm Linear Bearing (x12)
+
 # License
 This project is released under the [Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
 
