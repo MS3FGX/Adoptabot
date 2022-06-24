@@ -1,6 +1,6 @@
 ![assembled](assembled.jpg)
 # Adoptabot v1
-These are individual STL files for each of the printed parts of the v1 [Adoptabot](www.adoptabot.com).
+These are individual STL files for each of the printed parts of the v1 [Adoptabot](https://www.brookdrumm.com/designs) by Brook Drumm.
 
 Files in the "experimental" directory are my modifications of the original files, and are not guaranteed to work as expected.
 
